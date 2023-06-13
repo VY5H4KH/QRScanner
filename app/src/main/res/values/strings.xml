@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="helper_activity">HelperActivity</string>
+    <string name="show_code_in_fragment">show code in fragment</string>
+    <string name="scan_qr_code">SCAN QR CODE</string>
+    <string name="name">Name</string>
+    <string name="empty">---</string>
+    <string name="site_name">Site Name</string>
+    <string name="invalid">invalid qr code</string>
+    <string name="show_scanner_from_fragment">show scanner from fragment</string>
+    <string name="version_1_0_0">Version 1.0.0</string>
+    <string name="password">Password</string>
+</resources>
